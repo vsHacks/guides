@@ -1,6 +1,6 @@
 # Minecraft Lockout
 
-### How to Setup
+## How to Setup
 
 **Prerequisites**
 1. You will need to download [Forge 1.18.2](https://files.minecraftforge.net/net/minecraftforge/forge/).
@@ -17,3 +17,9 @@
 6. You are all set!
 
 A More detailed guide to install forge mods can be found [here](https://www.youtube.com/watch?v=fx2L0vYowKc)
+
+## What is Lockout
+
+Minecraft lockout is a game where two teams compete against each to complete tasks.
+
+You can check out an example of a game [here](https://www.youtube.com/watch?v=U9KnNktuZnM).
